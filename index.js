@@ -4,7 +4,7 @@ console.log(document)
 // console.dir(document)
 
 // ALERTS //
-// alert("Hello World")  // Textbox pop-up
+// alert("Hello World")  // Textbox pop-up //
 
 // window.onload = function(){
 //     alert(`Hello Mr. Gardner`)
@@ -15,7 +15,7 @@ console.log(document)
 // const student = prompt('What is your name?')
 // console.log(student)
 // writes to document, but doesn't work with script defer 
-// document.write(`<p>Hello, ${student}`);
+// document.write(`<p>Hello, ${student}`)
 
 // modern web dev standard 
 const student = prompt('What is your name?');
